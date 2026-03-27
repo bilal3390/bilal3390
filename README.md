@@ -1,1 +1,1 @@
-# gitartwork
+![My Artwork](gitartwork.svg)
